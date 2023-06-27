@@ -338,3 +338,5 @@
 |https://t.me/killnet_reservs|ONLINE|Killnet reservs|
 |https://t.me/hooshyarane|ONLINE|Hooshyaran-e Vatan group|
 |https://t.me/blackforumsbf|ONLINE|Blackforum|
+|https://t.me/CrackerConfigs|ONLINE|Cracker datalogs|
+|https://t.me/Osintcorp_chat|ONLINE|Data leaks|
